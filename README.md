@@ -3,7 +3,8 @@
 
 ## Overview
 This project implements a Flask-based API that classifies beer bottles as "open" or "closed" based on provided images. It leverages deep learning and containerization for deployment and scalability. The solution is designed as a proof of concept (PoC) for real-world applications in scalable environments.
-
+The trained model is on this path
+https://drive.google.com/drive/folders/1Xm1oWy8yCL6j4JnINZLsxQcmj7uwcbZP
 ---
 
 ## Features
